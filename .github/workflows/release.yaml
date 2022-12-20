@@ -31,3 +31,5 @@ jobs:
 
       - name: Create tag
         run: yarn changeset tag
+
+      - run: git push --follow-tags
