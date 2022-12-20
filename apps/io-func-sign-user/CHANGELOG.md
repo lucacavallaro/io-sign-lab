@@ -1,5 +1,11 @@
 # io-func-sign-user
 
+## 1.0.0
+
+### Major Changes
+
+- b005cb3: major release test
+
 ## 0.3.0
 
 ### Minor Changes
