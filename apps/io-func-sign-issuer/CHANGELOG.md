@@ -1,5 +1,15 @@
 # io-func-sign-issuer
 
+## 0.11.0
+
+### Minor Changes
+
+- ebec1c3: test of a minor change
+
+### Patch Changes
+
+- f5b5f67: Patch signature notification message
+
 ## 0.10.0
 
 ### Minor Changes

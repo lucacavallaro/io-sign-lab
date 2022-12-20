@@ -1,5 +1,16 @@
 # io-func-sign-user
 
+## 0.3.0
+
+### Minor Changes
+
+- a562450: Add signature mock to create a valid signature for QTSP and fix some errors
+
+### Patch Changes
+
+- a562450: Add base64 url encoded for createFilledDocument
+- a9e668e: [SFEQS-1238] round coordinates for QTSP
+
 ## 0.2.0
 
 ### Minor Changes
